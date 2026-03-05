@@ -44,7 +44,7 @@ Para poner en marcha la aplicación en tu entorno local, sigue estos pasos:
     ```
 * **Acceder a la web:** Abre un navegador y dirígete a la dirección local. Por defecto, la aplicación escucha en el puerto **8000**.
     ```
-    [http://127.0.0.1:8000](http://127.0.0.1:8000)
+    http://127.0.0.1:8000
     ```
 
 ### 4. Uso de la aplicación
